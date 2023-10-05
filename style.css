@@ -11,13 +11,19 @@ hr {
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
- 
+
+.name {
+  background-color: #A9A9A9;
+  float: left;
+}
+
 .containers {
   float: left;
 }
 
-footer {
+.footer {
   float:left;
+  background-color: #FAEBD7;
 }
 
 h1 {
