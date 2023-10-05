@@ -25,6 +25,7 @@ img {
 hr {
     width:50%;
     background-color:#A9A9A9;
+  height: 3px;
 }
 
 /* header font styling */
@@ -32,7 +33,6 @@ hr {
 h1 {
   font-size: 64px;
   color: #FFB6C1;
-  height: 3px;
 }
 
 h2 {
