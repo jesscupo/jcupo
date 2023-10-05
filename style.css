@@ -14,9 +14,11 @@ hr {
  
 .containers {
   float: left;
-  background-color: #008B8B;
 }
 
+footer {
+  float:left;
+}
 
 h1 {
   font-family: 'Koulen', sans-serif;
