@@ -36,6 +36,9 @@ h2 {
 p {
   font-family: 'Titillium Web', sans-serif;
   font-size: 22px;
+}
+
+ul, ol {
   color: #FFE4E1;
   text-align: left;
   font-style: italic;
