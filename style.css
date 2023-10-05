@@ -5,6 +5,10 @@ body {
   background-color: #708090;
 }
 
+.pageContainer {
+  width: 50%;
+}
+
 hr {
     border: 0;
     height: 1px;
