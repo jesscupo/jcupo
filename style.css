@@ -13,9 +13,13 @@ hr {
 }
  
 .intro {
+  float: left;
   background-color: #2F4F4F;
 }
 
+.aboutMe {
+  float: left;
+  background-color:#FFC0CB;
 
 h1 {
   font-family: 'Koulen', sans-serif;
