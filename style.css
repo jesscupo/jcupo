@@ -7,6 +7,8 @@ body {
 
 .pageContainer {
   width: 50%;
+  margin: auto;
+  text-align:center;
 }
 
 hr {
@@ -21,12 +23,8 @@ hr {
   float: left;
 }
 
-.containers {
-  float: left;
-}
 
 .footer {
-  float:left;
   background-color: #FAEBD7;
 }
 
