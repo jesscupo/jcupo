@@ -2,27 +2,15 @@
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
 
 body {
-  background-color: #2F4F4F;
+  background-color: #708090;
 }
  
-.pageContainer {
-  width: 940px;
-  margin: 20px auto 0 auto;
-  padding: 20px;
-  background-color: #fff;
-}
- 
-
-.textContainer {
+.intro {
   float: left;
   width: 300px;
-  margin-left: 20px;
-  margin-top: 20px;
+  background-color: #2F4F4F;
 }
 
-img {
-  width: 100%;
-}
 
 h1 {
   font-family: 'Koulen';
