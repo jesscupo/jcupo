@@ -71,8 +71,8 @@ ul, ol {
 
 /* link styling */
 a {
-  font-family: "Times New Roman";
   font-size: 10px;
+  color: #F5F5DC;
 }
 
 a:link {
