@@ -13,14 +13,11 @@ hr {
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
  
-.intro {
+.containers {
   float: left;
-  background-color: #2F4F4F;
+  background-color: #008B8B;
 }
 
-.aboutMe {
-  float: left;
-  background-color:#FFC0CB;
 
 h1 {
   font-family: 'Koulen', sans-serif;
@@ -37,7 +34,7 @@ h2 {
 p {
   font-family: 'Titillium Web', sans-serif;
   font-size: 22px;
-  color: #FFFFE0;
+  color: #A9A9A9;
 }
 
 
