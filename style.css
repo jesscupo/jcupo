@@ -5,6 +5,10 @@ body {
   background-color: #708090;
 }
 
+img {
+  border-radius: 8px;
+}
+
 .pageContainer {
   width: 50%;
   margin: auto;
@@ -12,7 +16,7 @@ body {
 }
 
 hr {
-    width:50%
+    width:50%;
     background-color:#A9A9A9;
 }
 
