@@ -4,30 +4,35 @@
 body {
   background-color: #708090;
 }
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
  
 .intro {
-  float: left;
-  width: 300px;
   background-color: #2F4F4F;
 }
 
 
 h1 {
-  font-family: 'Koulen';
+  font-family: 'Koulen', sans-serif;
   font-size: 64px;
   color: #FFB6C1;
 }
 
 h2 {
-  font-family: 'Oswald';
+  font-family: 'Oswald', sans-serif;
   font-size: 48px;
-  color: #FFFFE0;
+  color: #D8BFD8;
 }
  
 p {
-  font-family: 'Titillium Web';
+  font-family: 'Titillium Web', sans-serif;
   font-size: 22px;
-  color: #F5FFFA;
+  color: #FFFFE0;
 }
 
 
